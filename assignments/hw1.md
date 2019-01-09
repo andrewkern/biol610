@@ -1,7 +1,7 @@
 # Homework Assignment 1
 I'd like for each of you to complete the assignment as a jupyter notebook
 that you will turn in and that I can then evaluate to see if it works. Please
-email to me your notebook by class on Monday
+email to me your notebook by class on Wednesday
 
 **Question 1:** The variance of a sample of $n$ numbers, $Y_1, Y_2, ..., Y_n$,
  is calculated as
