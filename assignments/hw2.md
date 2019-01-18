@@ -12,4 +12,4 @@ assignments called `populations.txt`. Please be sure to update your version of t
 color for each species and will include a legend.
 
 
-**Question 2:** 
+**Question 2:** Using pandas, import the insect egg database and try to do the following: Reproduce the plot of volume to aspect ratio (called ar in the column values) shown [here](https://shchurch.github.io/dataviz/index.html). See if you can color points according to length as done on that webpage.
