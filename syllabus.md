@@ -11,45 +11,45 @@ be shifts in the schedule.
 
 ---------------------------------------------------------------------------------------------------------
 
-### January 7. Getting Python going on your machine
+### January 6. Getting Python going on your machine
 
 Installing anaconda, jupyter notebooks, python baby steps
 
-### January 9. Python programming language
+### January 8. Python programming language
 
 Printing, data structures, indexing
 
-### January 11. Python language continued
+### January 10. Python language continued
 
-Control flow, conditionals, looping. Assignment 1 handed out.
+Control flow, conditionals, looping, functions. Assignment 1 handed out.
 
-### January 14. Functions, Modules
-
-Writing our own functions. Getting functions from other sources
-
-### January 16. Numpy and Scipy
+### January 13. Numpy and Scipys
 
 Using numpy and scipy to boost our productivity. ndarrays, indexing, etc.
 
-### January 18. Matplotlib, plotting data
+### January 15.  Matplotlib, plotting data
 
-Basics of matplotlib, histograms, scatterplots, making things pretty. Assignment 2 handed out.
+Basics of matplotlib, histograms, scatterplots, making things pretty. 
+
+### January 17. Scipy for data, optimization, Pandas
+
+Getting more useful with Scipy for data analysis. First looks at Pandas. Assignment 2 handed out.
 
 
-### January 21. Pandas, dealing with data
+### January 20. Simulation of Genetic Drift
 
-Using the pandas library to analyze data. Import, export, manipulations, plotting.
+Using our skills to simulate some the population genetic model of genetic drift.
 
-### January 23. More pandas / scipy / matplotlib
-
-Doing statistical analysis with pandas / scipy. Basics of simulation.
-
-### January 25. Putting it all together
-
-Doing simulations using python. Assignment 3.  
-
-### January 28. Biopython 
+### January 22. Biopython
 
 Using biopython to handle sequence data. More advanced string stuff
+
+### January 24. Scikit-allel for population genetics
+
+Population genetic analysis using Alistair Miles' very excellent scikit-allel
+package. Assignment 3.  
+
+### January 27. tbd 
+
 
 
