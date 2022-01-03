@@ -11,45 +11,45 @@ be shifts in the schedule.
 
 ---------------------------------------------------------------------------------------------------------
 
-### January 4. Getting Python going on your machine
+### January 3. Getting Python going on your machine
 
 Installing anaconda, jupyter notebooks, python baby steps
 
-### January 6. Python programming language
+### January 5. Python programming language
 
 Printing, data structures, indexing
 
-### January 8. Python language continued
+### January 7. Python language continued
 
 Control flow, conditionals, looping, functions. Assignment 1 handed out.
 
-### January 11. Numpy and Scipys
+### January 10. Numpy and Scipys
 
 Using numpy and scipy to boost our productivity. ndarrays, indexing, etc.
 
-### January 13.  Matplotlib, plotting data
+### January 12.  Matplotlib, plotting data
 
 Basics of matplotlib, histograms, scatterplots, making things pretty. 
 
-### January 15. Scipy for data, optimization, Pandas
+### January 14. Scipy for data, optimization, Pandas
 
 Getting more useful with Scipy for data analysis. First looks at Pandas. Assignment 2 handed out.
 
 
-### January 18. Simulation of Genetic Drift
+### January 17. Simulation of Genetic Drift
 
 Using our skills to simulate some the population genetic model of genetic drift.
 
-### January 20. Biopython
+### January 19. Biopython
 
 Using biopython to handle sequence data. More advanced string stuff
 
-### January 22. Scikit-allel for population genetics
+### January 21. Scikit-allel for population genetics
 
 Population genetic analysis using Alistair Miles' very excellent scikit-allel
 package. Assignment 3.  
 
-### January 25. tbd 
+### January 24. tbd 
 
 
 
